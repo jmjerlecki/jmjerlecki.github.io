@@ -10,7 +10,7 @@ function toggleDayNight() {
   
   if (isDark) {
     title.textContent = 'locii';
-    description.textContent = 'your effort to remain what you are is what limits you.';
+    description.textContent = 'Man should have eqaul footing with the Gods.';
     subtext.textContent = 'coming soon.';
   } else {
     title.textContent = 'locii';
