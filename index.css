@@ -23,6 +23,19 @@ article p, article pre {
   article {
     padding: 40vh 24px;
   }
+
+  article h1 {
+    font-size: 2.2rem;
+  }
+
+  article p {
+    font-size: 1.6rem;
+    line-height: 1.6;
+  }
+
+  article pre {
+    font-size: 1.2rem;
+  }
 }
 
 article a {
