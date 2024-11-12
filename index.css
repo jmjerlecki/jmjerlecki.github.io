@@ -2,7 +2,6 @@ article {
   margin: 0 auto;
   max-width: 800px;
   padding: 40vh 32px;
-
   color: var(--dark);
   isolation: isolate;
   font-family: "Lora", serif;
@@ -10,7 +9,7 @@ article {
 
 article h1 {
   font-family: "Lora", serif;
-  font-weight: 700;
+  font-weight: 400;
   font-optical-sizing: auto;
   font-style: normal;
 }
@@ -285,3 +284,4 @@ body.dark {
     transform: perspective(400px) rotateX(0deg) rotateY(0deg) scale(1);
   }
 }
+
