@@ -15,7 +15,7 @@ function toggleDayNight() {
   } else {
     title.textContent = 'locii';
     description.textContent = 'The body is a machine for the mind.';
-    subtext.textContent = 'ComingSoon.';
+    subtext.textContent = 'Coming Soon.';
   }
 }
 
