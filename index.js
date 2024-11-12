@@ -10,12 +10,12 @@ function toggleDayNight() {
   
   if (isDark) {
     title.textContent = 'locii';
-    description.textContent = 'Man should have eqaul footing with the Gods.';
-    subtext.textContent = 'coming soon.';
+    description.textContent = 'Man should have equal footing with the Gods.';
+    subtext.textContent = 'Coming Soon.';
   } else {
     title.textContent = 'locii';
-    description.textContent = 'the body is a machine for the mind.';
-    subtext.textContent = 'coming soon.';
+    description.textContent = 'The body is a machine for the mind.';
+    subtext.textContent = 'Coming Soon.';
   }
 }
 

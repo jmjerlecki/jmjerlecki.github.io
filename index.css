@@ -5,6 +5,18 @@ article {
 
   color: var(--dark);
   isolation: isolate;
+  font-family: "Lora", serif;
+}
+
+article h1 {
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+article p, article pre {
+  font-weight: 400;
 }
 
 @media (max-width: 768px) {
