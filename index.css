@@ -16,6 +16,7 @@ article h1 {
 
 article p, article pre {
   font-weight: 400;
+  font-family: "Lora", serif;
 }
 
 @media (max-width: 768px) {
@@ -26,6 +27,15 @@ article p, article pre {
 
 article a {
   color: var(--dark);
+}
+
+article p {
+  font-size: 1.0rem;
+}
+
+article pre {
+  font-size: 0.7rem;
+  font-style: italic;
 }
 
 
